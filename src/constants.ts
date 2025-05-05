@@ -1,10 +1,10 @@
-export const _privyAppId = "cm3ohhtyy04spesbytwi1ar0w";
+export const _privyAppId = "";
 export const _privyAppSecret =
-    "4XwHtVsqUzn51Tz79S6Tp7zgHXvF8xo5ovmqN6nCgYtRiqVsg2UKxjWt9GCMa3XEHAM8QMY9vFm7hVUJL5tjZsZM";
+    "";
 // export const _secret_key_as_string =
 //     "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgCO8RZEohTLuDzUG2Wivo80k52StyI5zm2mOhHttwI0KhRANCAATpz7LxBB0ZmjTz7kMTBO50FjYyE00hEB8HplZFLvnzb/3I43L6DrS05fVc+95w/HqyTO45W0klWsut83ZOuWM1";
 
-export const _secret_key_as_string = "wallet-api:MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgV/sCzlmAmJZs0SkCAmbdVhASHGYeNpBBrv3ZbJolsZWhRANCAAT0FhTdyyLVSz/4owOxvTWk/LB9veJn6ZzcxpM4QRmo2/2pxvif2OhFEy6cNqspH04dVGOGVyvTwGkSUrjhDENZ"
+export const _secret_key_as_string = ""
 
 export const _POOL_ADDRESS_PROVIDER_ABI = [
     "function getPool() external view returns (address)",
