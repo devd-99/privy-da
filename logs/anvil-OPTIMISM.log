@@ -1,0 +1,3 @@
+thread 'main' panicked at /Users/runner/work/foundry/foundry/crates/anvil/src/config.rs:1115:57:
+Failed to get fork block number: Transport(Custom(reqwest::Error { kind: Request, url: "https://patient-clean-bird.optimism-mainnet.quiknode.pro/817ffec3a85a03522cdb8f816208fd034e9db3f4", source: hyper_util::client::legacy::Error(Connect, Custom { kind: Other, error: Custom { kind: InvalidData, error: InvalidCertificate(NotValidForName) } }) }))
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
