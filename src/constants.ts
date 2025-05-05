@@ -2,7 +2,7 @@ export const _privyAppId = "";
 export const _privyAppSecret =
     "";
 // export const _secret_key_as_string =
-//     "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgCO8RZEohTLuDzUG2Wivo80k52StyI5zm2mOhHttwI0KhRANCAATpz7LxBB0ZmjTz7kMTBO50FjYyE00hEB8HplZFLvnzb/3I43L6DrS05fVc+95w/HqyTO45W0klWsut83ZOuWM1";
+//     "";
 
 export const _secret_key_as_string = ""
 
